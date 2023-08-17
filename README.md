@@ -1,5 +1,4 @@
 # Studies on Contract farming in India
-One of the first attempt to use evidence gap map to show the categorise the studies on contract farming in India
 <!DOCTYPE html>
 <html lang="en">
 <head>
