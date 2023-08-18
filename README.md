@@ -1,5 +1,4 @@
 # Studies on Contract farming in India
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
